@@ -442,6 +442,7 @@ body {
   color: #757575;
 }
 .projects-item-link {
+  display: block;
   font-style: normal;
   color: inherit;
 }
